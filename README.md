@@ -8,4 +8,4 @@
 
 - In the end, I mapped tree cover for the entire Chapada dos Veadeiros National Park and surroundings.
 
-<img width="50%" src="img/pncv tree cover hansen mapa1.png"/>
+<img width="65%" src="img/pncv tree cover hansen mapa1.png"/>
